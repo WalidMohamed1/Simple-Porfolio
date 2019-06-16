@@ -1,0 +1,58 @@
+body
+{
+    overflow-y:hidden;
+    overflow-x:hidden;
+    cursor: url("Normal.cur"),auto;
+    margin: 0%;
+}
+.content
+{
+    width: 110%;
+}
+.f
+{
+    position: relative;
+    left: 150px;
+}
+.f img
+{
+    width: 15%;
+    border-radius: 50%;
+    cursor: url("Links.cur"),auto;
+}
+.t
+{
+    position: relative;
+    left: 400px;
+    bottom: 151px;
+}
+.t img
+{
+    width: 13%;
+    border-radius: 100%;
+    cursor: url("Links.cur"),auto;
+}
+.g
+{
+    position: relative;
+    left: 1000px;
+    bottom: 340px;
+}
+.g img
+{
+    width: 15%;
+    border-radius: 70%;
+    cursor: url("Links.cur"),auto;
+}
+.l
+{
+    position: relative;
+    left: 780px;
+    bottom: 510px;
+}
+.l img
+{
+    width: 13%;
+    border-radius: 50%;
+    cursor: url("Links.cur"),auto;
+}

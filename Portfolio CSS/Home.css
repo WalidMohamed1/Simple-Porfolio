@@ -1,0 +1,12 @@
+body
+{
+    margin: 0%;
+    overflow-y:hidden;
+    overflow-x:hidden;
+    cursor: url("Normal.cur"),auto;
+}
+.Home
+{
+    width: 101%;
+    height: 100%;
+}

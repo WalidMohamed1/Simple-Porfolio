@@ -1,0 +1,45 @@
+body
+{
+    margin: 0%;
+    background-color: rgba(0,0,0,0.3);
+    cursor: url("Normal.cur"),auto;
+}
+.photo 
+{
+    float: right;
+    position: fixed;
+    left: 700px;
+    bottom: 140px;
+    padding: 20px;
+}
+.photo img
+{
+    width: 50%;
+    float: right;
+    border-radius: 50%;
+}
+.photo img:hover
+{
+    width: 35%;
+    position: fixed;
+    bottom: 5px;
+}
+.cont h1
+{
+
+    width: 20%;
+    position: relative;
+    left: 61px;
+    bottom: -80px;
+    font-size: 60px;
+    color: red;
+}
+.cont p
+{
+    color: white;
+    position: relative;
+    right: 30px;
+    bottom: 1px;
+    font-size: 20px;
+    font-weight: bold;
+}
